@@ -1,0 +1,37 @@
+/* style.css - Main stylesheet of google-homepage project
+ * Written by Matthew Kelley */
+
+* {
+    font-family: Arial, Sans-Serif;
+}
+
+#navbar {
+    text-align: right;
+    padding: 0px 30px 0px 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#logo {
+    height: 95px;
+    width: 296 px;
+    padding: 112px 0px 0px 0px;
+}
+
+input {
+    height: 30px;
+    width: 572px;
+}
+
+input:focus {
+    border-color: blue;
+}
+
+#searchButtons {
+    t
